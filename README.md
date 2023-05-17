@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <a href="https://github.com/ricardocoimbra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardocoimbra&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocoimbra&layout=compact&langs_count=10&theme=vue-dark"/>
+  <a href="https://github.com/andersenvieira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersenvieira&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersenvieira&layout=compact&langs_count=10&theme=vue-dark"/>
   <!--- <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocoimbra&repo=minhas-series&theme=vue-dark"/> --->
    
 </div>
