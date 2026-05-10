@@ -1,7 +1,7 @@
-<h1 align="center">Olá, sou o Andersen Vieira 👋</h1>
+<h1 align="center">Olá, me chamo Andersen Vieira 👋</h1>
 
 <p align="center">
-  <em>Engenheiro de software full-stack · Linux/DevOps · arquiteturas SaaS multi-tenant</em>
+  <em>Acadêmico de Engenharia de Software especializando em projetos full-stack · Linux/DevOps · arquiteturas SaaS multi-tenant</em>
 </p>
 
 <p align="center">
