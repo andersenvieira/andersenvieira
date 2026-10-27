@@ -83,7 +83,7 @@
 
 <p align="center">
   <!-- Opção 1: cartão com gráfico de contribuições -->
-  <img src="https://raw.githubusercontent.com/andersenvieira/andersenvieira/output/card.svg?v=1" width="880" />
+  <img src="https://raw.githubusercontent.com/andersenvieira/andersenvieira/output/card.svg?v=2" width="880" />
   <br/><br/>
   <!-- Opção 2: cobrinha (gerada pela automação .github/workflows/snake.yml) -->
   <img src="https://raw.githubusercontent.com/andersenvieira/andersenvieira/output/snake-dark.svg?v=1" width="880" />
