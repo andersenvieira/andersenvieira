@@ -86,7 +86,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersenvieira&theme=tokyonight" />
   <br/><br/>
   <!-- Opção 2: cobrinha (gerada pela automação .github/workflows/snake.yml) -->
-  <img src="https://raw.githubusercontent.com/andersenvieira/andersenvieira/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/andersenvieira/andersenvieira/output/snake-dark.svg?v=1" />
 </p>
 
 ---
