@@ -31,10 +31,6 @@
   <img src="https://streak-stats.demolab.com?user=andersenvieira&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andersenvieira&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</p>
-
 ---
 
 ### 🛠️ Stack que uso no dia-a-dia
@@ -83,10 +79,10 @@
 
 <p align="center">
   <!-- Opção 1: cartão com gráfico de contribuições -->
-  <img src="https://raw.githubusercontent.com/andersenvieira/andersenvieira/output/card.svg?v=2" width="880" />
+  <img src="https://raw.githubusercontent.com/andersenvieira/andersenvieira/output/card.svg?v=2" width="100%" />
   <br/><br/>
   <!-- Opção 2: cobrinha (gerada pela automação .github/workflows/snake.yml) -->
-  <img src="https://raw.githubusercontent.com/andersenvieira/andersenvieira/output/snake-dark.svg?v=1" width="880" />
+  <img src="https://raw.githubusercontent.com/andersenvieira/andersenvieira/output/snake-dark.svg?v=1" width="100%" />
 </p>
 
 ---
