@@ -1,4 +1,4 @@
-name: Cobrinha de contribuições
+name: Cobrinha e cartão de contribuições
 
 on:
   schedule:
@@ -17,6 +17,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake-dark.svg?palette=github-dark&color_snake=#7aa2f7&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+      - name: Cartão de contribuições com o nome inteiro
+        run: |
+          curl -sfL "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersenvieira&theme=tokyonight" -o dist/card.svg
+          sed -i 's#andersenvieira (Ande…)#Andersen Vieira#' dist/card.svg
+          grep -q 'Andersen Vieira' dist/card.svg
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
